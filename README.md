@@ -1,4 +1,4 @@
-# ⚠️ outdated!
+# ⚠️ outdated, don't use!
 
 # gutenberg-block-image
 
