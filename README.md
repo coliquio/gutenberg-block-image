@@ -1,3 +1,5 @@
+# ⚠️ outdated!
+
 # gutenberg-block-image
 
 - [build/index.js](build/index.js)
